@@ -17,7 +17,7 @@ This is a batch script designed for Windows 10 users who are being forced to upg
 4.  **UI Cleanup:** Modifies the Registry to remove "Update and Restart" / "Update and Shutdown" options from the Power Menu.
 
 ### How to Use
-1.  Download the `fix_updates.bat` file (or create a new text file, paste the code below, and save it as `.bat`).
+1.  Download the `dont_update_to_win11.bat` file (or create a new text file, paste the code below, and save it as `.bat`).
 2.  **Right-Click** the file and select **Run as Administrator**.
 3.  Wait for the "OPERATION SUCCESSFUL" message.
 4.  **Restart** your computer.
@@ -38,7 +38,7 @@ Bu script, Windows 10 kullanan ancak sürekli Windows 11'e geçmeye zorlanan kul
 4.  **Arayüz Temizliği:** Başlat menüsündeki "Güncelle ve Kapat" / "Güncelle ve Yeniden Başlat" seçeneklerini gizler.
 
 ### Nasıl Kullanılır?
-1.  `fix_updates.bat` dosyasını indirin (veya aşağıdaki kodu bir metin belgesine yapıştırıp uzantısını `.bat` olarak kaydedin).
+1.  `dont_update_to_win11.bat` dosyasını indirin (veya aşağıdaki kodu bir metin belgesine yapıştırıp uzantısını `.bat` olarak kaydedin).
 2.  Dosyaya **Sağ Tıklayın** ve **Yönetici Olarak Çalıştır** deyin.
 3.  "OPERATION SUCCESSFUL" yazısını bekleyin.
 4.  Bilgisayarınızı **Yeniden Başlatın**.
